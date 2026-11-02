@@ -42,12 +42,14 @@ LD Decay: Estimación del desequilibrio de ligamiento intracromosómico mediante
 
 Modelo: Modelo Lineal Mixto (LMM) incorporando la matriz de parentesco genético (Kinship) de VanRaden.
 
+
+Paquete Utilizado: statgenGWAS en R.
+
+Ajuste: Corrección por multiplicidad mediante umbral de Bonferroni ($\alpha = 0.05$).
+
+
 Paz Echeverría
 
 Escuela de Ingeniería Civil en Bioinformática, Facultad de Ingeniería
 
 Universidad de Talca — Módulo: Taller Omics (2026)
-
-Paquete Utilizado: statgenGWAS en R.
-
-Ajuste: Corrección por multiplicidad mediante umbral de Bonferroni ($\alpha = 0.05$).
